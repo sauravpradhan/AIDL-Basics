@@ -1,2 +1,2 @@
 # AIDL-Basics
-Basic AIDl example
+Basic AIDL example
